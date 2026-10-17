@@ -55,6 +55,4 @@ pdf_toolkit/
 └── README.md
 ```
 
-## History
 
-- **Oct 2026:** rebuilt after the original local copy was lost. Uses `qpdf` instead of `pdftools`. The January 2026 splitter called functions that don't exist (`split_pdf()`, `fileLink()`).
